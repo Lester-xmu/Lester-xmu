@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Lester-xmu/Lester-xmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm @ Lester XMU
+I'm interested in coding
+I am preparing for the college entrance examination in 2022
